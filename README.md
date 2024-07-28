@@ -1,4 +1,5 @@
-## Hi there 👋
+## Computer Science student  
+Pursuing a BS in CS at WGU. This records student work, code snippets, and ideas for projects.
 
 <!--
 **nomanisanisland/nomanisanisland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
